@@ -6,7 +6,6 @@ I have learned about webpack so it's only natural to create a new template
 
 node_modules are ignored, use "npm install" to install them
 
-## more info
+## What's included
 
-css loader, lodash, eslint+prettier = set up
-image, fonts = NOT set up yet
+css loader, lodash, eslint+prettier
